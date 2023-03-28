@@ -1,11 +1,37 @@
-/* Give your page a fun background color */
+/* Give your page a fun background color -- Completed */
+body {
+    background-color: antiquewhite;
 
-/* Make the header and footer a different color from the background */
+}
+/* Make the header and footer a different color from the background --Completed--*/
+header {
+background-color: aqua; 
+opacity: 60%;
+border-top: 5px;
+border-style: dotted;
+text-align: center;
+}
 
-/* Align the h1 containing your name in the center of the header*/
+footer {
+background-color: aquamarine;
+border-style: groove;
+}
+/* Align the h1 containing your name in the center of the header--Completed*/
 
-/* Make your p tag a different color and italic */
 
-/* Put a border around your image */
+/* Make your p tag a different color and italic-- completed */
+p {
+    font-style: italic;
+    color:darkmagenta;
+}
+/* Put a border around your image-- Completed */
 
-/* Change the font-family of your list */
+img {
+    border-style: ridge;
+border-radius: 50px;
+}
+
+/* Change the font-family of your list-- Completed */
+li {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
