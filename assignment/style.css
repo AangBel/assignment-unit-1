@@ -1,6 +1,7 @@
 /* Give your page a fun background color -- Completed */
 body {
     background-color: antiquewhite;
+    text-align: center;
 
 }
 /* Make the header and footer a different color from the background --Completed--*/
@@ -8,13 +9,17 @@ header {
 background-color: aqua; 
 opacity: 60%;
 border-top: 5px;
-border-style: dotted;
+border-left:5px;
+border-bottom:5px;
+border-right:5px;
+border-style:double;
 text-align: center;
 }
 
 footer {
 background-color: aquamarine;
 border-style: groove;
+font-size: larger;
 }
 /* Align the h1 containing your name in the center of the header--Completed*/
 
@@ -28,7 +33,8 @@ p {
 
 img {
     border-style: ridge;
-border-radius: 50px;
+
+
 }
 
 /* Change the font-family of your list-- Completed */
