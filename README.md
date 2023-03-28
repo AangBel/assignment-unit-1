@@ -81,7 +81,7 @@ If you make more changes in VSCode, save your work, then Refresh the browser to 
 
 *When you're done with your HTML, make a "`commit`" with `git`.* 
 
-> Definitly refer to the Git Practical video on this! You'll be making commits *all the time* so eventually you'll get this memorized. For now, take it one step at a time!
+> Definitely refer to the Git Practical video on this! You'll be making commits *all the time* so eventually you'll get this memorized. For now, take it one step at a time!
 
 Here is the pattern. Be sure you are in the project folder!
 
