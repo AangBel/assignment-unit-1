@@ -13,7 +13,6 @@ border-left:5px;
 border-bottom:5px;
 border-right:5px;
 border-style:double;
-text-align: center;
 }
 
 footer {
@@ -22,7 +21,9 @@ border-style: groove;
 font-size: larger;
 }
 /* Align the h1 containing your name in the center of the header--Completed*/
-
+h1 {
+    text-align: center;
+}
 
 /* Make your p tag a different color and italic-- completed */
 p {
@@ -33,11 +34,12 @@ p {
 
 img {
     border-style: ridge;
-
-
+    border-color: brown;
 }
 
 /* Change the font-family of your list-- Completed */
 li {
+    text-align: left;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
 }
